@@ -2,6 +2,7 @@
 
 ### **`display: inline;`**
 > Path: display/inline.html
+
 Como funciona:  
 
 1. O valor **inline** permite que os elementos fiquem um ao lado do outro.
@@ -11,6 +12,7 @@ Como funciona:
 
 ### **`display: block;`**
 > Path: display/block.html
+
 Como funciona:  
 
 1. Já que o display **inline** não aceita as proprieradades _**width**_ e _**height**_, para que o elemento HTML aceite uma  _**width**_ e _**height**_, precisamos defninir o valor do _**display**_ como _**block**_.
