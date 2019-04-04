@@ -16,26 +16,15 @@ body {
     color: #fff;
 }
 .box-item {
-    display: block;
-    width: 50%;
-    height: 150px;
+    display: inline;
+    padding: 10%;
 }
 .box-item-one {
    background-color: #FAA116;
 }
 .box-item-two {
     background-color: #57C7C3;
-    margin-left: auto;
 }
 .box-item-three {
     background-color: #3B97D3;
 }
-.box-item-four {
-    background-color: #FAA116;
-    margin-left: auto;
- }
- .box-item-six {
-     background-color: #57C7C3;
-     margin-left: auto;
-     margin-right: auto;          
- }
