@@ -17,7 +17,8 @@ body {
 }
 .box-item {
     display: inline-block;
-    padding: 10%;
+    width: 25%;
+    height: 150px;
 }
 .box-item-one {
    background-color: #FAA116;
