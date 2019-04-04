@@ -18,3 +18,10 @@ Como funciona:
 1. Já que o display **inline** não aceita as proprieradades _**width**_ e _**height**_, para que o elemento HTML aceite uma  _**width**_ e _**height**_, precisamos defninir o valor do _**display**_ como _**block**_.
 2. Todos elementos definidos com _**display: block**_, aceitam as propriedades  _**width**_ e _**height**_.
 3. Todo elemento definido como block ocupa a linha inteira, ou seja, não deixa outro elemento ocupar a mesma linha que ele.
+
+### **`display: inline-block;`**
+> Path: display/inline-block.html
+
+Como funciona:  
+
+1. 
