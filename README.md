@@ -24,7 +24,7 @@ Como funciona:
 
 Como funciona:  
 
-1. A melhor definição para o nome _**inline-block**_ é basicamente a junção dos comportamnetos dos valores _**inline + block**_. 
+1. A melhor definição para o nome _**inline-block**_ é basicamente a junção do comportamento dos valores _**inline + block**_. 
 3. Com _**display: inline-block**_ nós conseguimos definir uma largura (width) e altura (height) da mesma forma que conseguimos com o _**display: block**_, esse é o único comportamento que o _**inline-block**_ herda do _**block**_.
 2. Para conseguirmos definir uma _**width**_ e _**height**_ para cada um dos nossos elementos, é necessário que todas eles tenham o valor block na propriedade display, ou seja, acabamos de cair em um impasse. É desse impasse que nasceu o _**display: inline-block**_.
 3. Quando um elemento _HTML_ é definido como _**display: inline-block**_ ele também ganha o comportamento de uma palavra, esse é o segundo comportamento que herdamos do _**display: inline**_.
